@@ -1,0 +1,13 @@
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\bin\Release\DeterninantTest.exe.config
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\bin\Release\DeterninantTest.exe
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\bin\Release\DeterninantTest.pdb
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\bin\Release\MatrixOperations.dll
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\bin\Release\MatrixOperations.pdb
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Release\DeterninantTest.csprojResolveAssemblyReference.cache
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Release\DeterninantTest.AboutBox_Samboretskiy.resources
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Release\DeterninantTest.InputDataForm.resources
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Release\DeterninantTest.MainForm.resources
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Release\DeterninantTest.Properties.Resources.resources
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Release\DeterninantTest.csproj.GenerateResource.Cache
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Release\DeterninantTest.exe
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Release\DeterninantTest.pdb

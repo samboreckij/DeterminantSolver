@@ -1,0 +1,4 @@
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\MatrixOperations\bin\Release\MatrixOperations.dll
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\MatrixOperations\bin\Release\MatrixOperations.pdb
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\MatrixOperations\obj\Release\MatrixOperations.dll
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\MatrixOperations\obj\Release\MatrixOperations.pdb

@@ -1,0 +1,5 @@
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\MatrixOperations\bin\Debug\MatrixOperations.dll
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\MatrixOperations\bin\Debug\MatrixOperations.pdb
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\MatrixOperations\obj\Debug\MatrixOperations.csprojResolveAssemblyReference.cache
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\MatrixOperations\obj\Debug\MatrixOperations.dll
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\MatrixOperations\obj\Debug\MatrixOperations.pdb

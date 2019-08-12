@@ -1,0 +1,13 @@
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\bin\Debug\DeterninantTest.exe.config
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\bin\Debug\DeterninantTest.exe
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\bin\Debug\DeterninantTest.pdb
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Debug\DeterninantTest.csprojResolveAssemblyReference.cache
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Debug\DeterninantTest.AboutBox_Samboretskiy.resources
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Debug\DeterninantTest.InputDataForm.resources
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Debug\DeterninantTest.MainForm.resources
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Debug\DeterninantTest.Properties.Resources.resources
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Debug\DeterninantTest.csproj.GenerateResource.Cache
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Debug\DeterninantTest.exe
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\obj\Debug\DeterninantTest.pdb
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\bin\Debug\MatrixOperations.dll
+C:\Users\sword\documents\visual studio 2017\Projects\DeterninantTestSolution\DeterninantTest\bin\Debug\MatrixOperations.pdb
